@@ -1,13 +1,13 @@
-# Node.js subprojects
+# Node.js projects
 
-[/tasks/finish](./tasks-finish/README.md)
+[Finish tasks](./tasks-finish/README.md)
 
-[/tasks/update](./tasks-update/README.md)
+[Update tasks](./tasks-update/README.md)
 
-[/tasks/create](./tasks-create/README.md)
+[Create tasks](./tasks-create/README.md)
 
-[/tasks/list](./tasks-list/README.md)
+[List tasks](./tasks-list/README.md)
 
-[/users/login](./users-login/README.md)
+[Login users](./users-login/README.md)
 
-[/users/register](./users-register/README.md)
+[Register users](./users-register/README.md)
