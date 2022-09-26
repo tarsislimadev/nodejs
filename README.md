@@ -1,6 +1,6 @@
 # Node.js projects
 
-A set of service writen in [Node.js](https://nodejs.org/en/)
+A set of services written in [Node.js](https://nodejs.org/en/)
 
 ## projects
 
