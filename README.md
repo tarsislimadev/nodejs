@@ -1,5 +1,9 @@
 # Node.js projects
 
+A set of service writen in [Node.js](https://nodejs.org/en/)
+
+## projects
+
 [Finish tasks](./tasks-finish/README.md)
 
 [Update tasks](./tasks-update/README.md)
@@ -11,3 +15,7 @@
 [Login users](./users-login/README.md)
 
 [Register users](./users-register/README.md)
+
+## license
+
+[MIT](./LICENSE)
