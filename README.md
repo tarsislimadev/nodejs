@@ -1,8 +1,8 @@
-# Node.js projects
+# Projetos em Node.js
 
-A set of services written in [Node.js](https://nodejs.org/en/)
+Coleção de serviços escritos em [Node.js](https://nodejs.org/en/)
 
-## projects
+## Serviços
 
 [Finish tasks](./tasks-finish/README.md)
 
@@ -16,6 +16,6 @@ A set of services written in [Node.js](https://nodejs.org/en/)
 
 [Register users](./users-register/README.md)
 
-## license
+## Licença
 
 [MIT](./LICENSE)
