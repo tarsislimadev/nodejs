@@ -1,6 +1,6 @@
 # Projetos em Node.js
 
-Coleção de serviços escritos em [Node.js](https://nodejs.org/en/)
+Para projetos escritos em [Node.js](https://nodejs.org/en/)
 
 ## Serviços
 
