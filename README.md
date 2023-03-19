@@ -24,6 +24,6 @@ To compile projects written in [Node.js](https:/nodejs.org/en/).
 
 [Register users](./services/users-register/README.md)
 
-## Licença
+## LICENSE
 
 [MIT](./LICENSE)
