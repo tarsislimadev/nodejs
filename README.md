@@ -4,6 +4,12 @@ To compile projects written in [Node.js](https:/nodejs.org/en/).
 
 ## Docker images
 
+[Node.js](https://github.com/brtmvdl/docker-node)
+
+[Visual Studio Code Node.js Extension Pack](https://github.com/brtmvdl/nodejs-extension-pack-vsce)
+
+[API Node.js MongoDB](https://github.com/brtmvdl/api-nodejs-mongodb)
+
 [Express.js](./docker/express/README.md)
 
 ## Projects
