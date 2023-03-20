@@ -16,7 +16,7 @@ To compile projects written in [Node.js](https:/nodejs.org/en/).
 
 [Express.js](./projects/express/README.md)
 
-## Services
+## Projects
 
 [Finish tasks](./services/tasks-finish/README.md)
 
