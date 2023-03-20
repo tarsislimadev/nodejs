@@ -1,8 +1,8 @@
-# Node.js projects
+# Node.js
 
 To compile projects written in [Node.js](https:/nodejs.org/en/).
 
-## Docker images
+## Docker image
 
 [Node.js](https://github.com/brtmvdl/docker-node)
 
@@ -16,7 +16,7 @@ To compile projects written in [Node.js](https:/nodejs.org/en/).
 
 [Express.js](./projects/express/README.md)
 
-## Projects
+## Services
 
 [Finish tasks](./services/tasks-finish/README.md)
 
