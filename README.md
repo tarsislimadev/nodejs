@@ -4,17 +4,15 @@ To compile projects written in [Node.js](https:/nodejs.org/en/).
 
 ## Docker image
 
-[Node.js](https://github.com/brtmvdl/docker-node)
+[GitHub repository](https://github.com/brtmvdl/docker-node)
 
-[Visual Studio Code Node.js Extension Pack](https://github.com/brtmvdl/nodejs-extension-pack-vsce)
-
-[API Node.js MongoDB](https://github.com/brtmvdl/api-nodejs-mongodb)
-
-[Express.js](./docker/express/README.md)
+[Docker Hub](https://hub.docker.com/r/tmvdl/node)
 
 ## Projects
 
-[Express.js](./projects/express/README.md)
+Visual Studio Node.js Extension Pack - [GitHub](https://github.com/brtmvdl/nodejs-extension-pack-vsce) - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=tmvdl.frontend-extension-pack-vsce)
+
+API Node.js MongoDB - [GitHub](https://github.com/brtmvdl/api-nodejs-mongodb)
 
 ## Services
 
