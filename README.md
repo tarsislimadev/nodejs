@@ -1,6 +1,6 @@
 # Node.js
 
-To compile projects written in [Node.js](https:/nodejs.org/en/).
+To compile projects written in [Node.js](https://nodejs.org/en/).
 
 ## Docker image
 
